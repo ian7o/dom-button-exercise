@@ -1,1 +1,1 @@
-# dom-button-exercise: A basic JavaScript DOM manipulation exercise using button events
+# dom-button-exercise: A basic JavaScript DOM: Manipulation exercise using button events
